@@ -1,3 +1,4 @@
+//Navbar links toggle 
 let menu = document.querySelector(".fa-bars");
 let navbar = document.querySelector(".navbar");
 
