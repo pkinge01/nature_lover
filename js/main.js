@@ -10,5 +10,4 @@ menu.addEventListener("click", function () {
 window.addEventListener("scroll", () => {
   menu.classList.remove("fa-times");
   navbar.classList.remove("nav-toggle");
-});
-//navbar links toggle
+});
